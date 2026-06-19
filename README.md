@@ -19,7 +19,7 @@ PayByPlate MA is a modern web-based parking and payment management system design
 ## Author
 **Name:** natasha052gandhi  
 **Email:** natasha052gandhi@outlook.com  
-**Website:** PayByPlate MA  
+**Website:** [PayByPlate MA](https://www.paybyplatema.io)  
 **Bio:** A passionate full-stack developer with strong expertise in React ecosystem, UI/UX design, and scalable web applications. Known for clean coding practices and problem-solving mindset.
 
 ## Getting Started
